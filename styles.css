@@ -1,0 +1,59 @@
+.body{
+    display:flex;
+}
+.h1 {
+    display:flex;
+    justify-content:center;
+    background-color:red;
+    border:solid 5px;
+}
+.slogan {
+    display:flex;
+    justify-content:center;
+    background-color:blue;
+    border:solid 5px;
+    margin-top:5px;
+}
+.toryiama {
+    display:flex;
+    justify-content:center;
+}
+.tory{
+    width:300px;
+    border:solid 10px red;
+}
+.button {
+    display:flex;
+    justify-content:flex-end;
+    height:100px;
+    width:600px;
+}
+.goku {
+    display:flex;
+    justify-content:flex-end;
+}
+.kakarot {
+    width:200px;
+    height:200px;
+}
+.dragonball {
+    width:300px;
+}
+.dragonballz {
+    width:200px;
+}
+.dragonballzkai {
+    width:200px;
+}
+.dragonballsuper {
+    width:200px;
+}
+.colom {
+    display:flex;
+    justify-content:space-around;
+}
+.gokus {
+    height:600px;
+    margin-left:100px;
+    border:solid 10px orange;
+}
